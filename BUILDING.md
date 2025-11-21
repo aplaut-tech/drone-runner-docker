@@ -1,4 +1,4 @@
-1. Install go 1.13 or higher
+1. Install go 1.21 or higher
 2. Test
 
     go test ./...
